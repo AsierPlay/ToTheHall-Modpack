@@ -1,8 +1,11 @@
 {
   "modpackName": "To The Hall",
   "modpackVersion": "0.1.0",
-  "requiredGameVersion": "",
-  "minBepInEx": "",
+  "bepinex": {
+    "version": "6.0.0-be.738",
+    "url": "https://builds.bepinex.dev/projects/bepinex_be/752/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.752%2Bdd0655f.zip",
+    "sha256": "F9D128E162269579B67E91A4923764F3D54FA8C8162A238CE6657D704084334C"
+  },
   "mods": [
     {
       "name": "Core",
