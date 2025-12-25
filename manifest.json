@@ -1,0 +1,16 @@
+{
+  "modpackName": "To The Hall",
+  "modpackVersion": "0.1.0",
+  "requiredGameVersion": "",
+  "minBepInEx": "",
+  "mods": [
+    {
+      "name": "Core",
+      "file": "ToTheHall.Core.dll",
+      "version": "0.1.0",
+      "url": "PUT_CORE_DLL_URL_HERE",
+      "sha256": "PUT_SHA256_HERE",
+      "required": true
+    }
+  ]
+}
